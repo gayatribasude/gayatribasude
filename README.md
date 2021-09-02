@@ -4,7 +4,7 @@
 - 🔭 I’m currently <!-- working on --> strengthening my grasp on Data Structures and Problem Solving skills.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on cloud related projects.
-- 📫 How to reach me: basudegayatri@gmail.com
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/gayatribasude/) 
 - 😄 Pronouns: She/Her/Hers
 <!-- - 🤔 I’m looking for help with ...  - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
