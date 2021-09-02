@@ -19,7 +19,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Colab](https://img.shields.io/badge/-Colab-000?&logo=Colab)
 
-### Full Stack Projects
+### Projects
 
 [![](https://img.shields.io/badge/-🧬%20SunoSunao-000)](https://github.com/gayatribasude/SunoSunao)
 [![](https://img.shields.io/badge/-🧬%20GayatrisWorld-000)](https://github.com/gayatribasude/GayatrisWorld)
