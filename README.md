@@ -1,5 +1,5 @@
 # Gayatri Basude
-
+![](https://komarev.com/ghpvc/?username=gayatribasude)
 
 - 🔭 I’m currently <!-- working on --> strengthening my grasp on Data Structures and Problem Solving skills.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
