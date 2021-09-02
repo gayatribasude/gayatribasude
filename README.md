@@ -1,4 +1,15 @@
 # Gayatri Basude
+
+
+- 🔭 I’m currently <!-- working on --> strengthening my grasp on Data Structures and Problem Solving skills.
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 👯 I’m looking to collaborate on cloud related projects.
+- 📫 How to reach me: basudegayatri@gmail.com
+- 😄 Pronouns: She/Her/Hers
+<!-- - 🤔 I’m looking for help with ...  - 💬 Ask me about ... -->
+<!-- - ⚡ Fun fact: ... -->
+
+
 ### Languages
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
