@@ -15,16 +15,12 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![MYSQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 
-
-
-
-### Technologies
+### Technologies and Tools
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
