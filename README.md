@@ -28,7 +28,7 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20SunoSunao-000)](https://github.com/gayatribasude/SunoSunao)
+<!-- [![](https://img.shields.io/badge/-🧬%20SunoSunao-000)](https://github.com/gayatribasude/SunoSunao) -->
 [![](https://img.shields.io/badge/-🧬%20GayatrisWorld-000)](https://github.com/gayatribasude/GayatrisWorld)
 [![](https://img.shields.io/badge/-🧬%20Toder-000)](https://github.com/gayatribasude/Toder)
 [![](https://img.shields.io/badge/-🧬%20MachineLearning-000)](https://github.com/gayatribasude/MachineLearning)
